@@ -2,6 +2,7 @@ import java.util.*;
 public class tax_calculate{ 
     public static void main (String args[]){
         Scanner sc = new Scanner(System.in);
+        sc.close();
         int income= sc.nextInt();
         int tax =0;
         if(income<500000){

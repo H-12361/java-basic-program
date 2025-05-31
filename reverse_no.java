@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class reverse_no {
     public static void main(String[] args) {
         int n =3425;
