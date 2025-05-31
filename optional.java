@@ -1,4 +1,4 @@
-public class sum_no{
+public class optional{
 
     public static void main(String args[]){
     

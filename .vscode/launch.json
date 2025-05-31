@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "javaProgramming_c437d854"
+        },
+        {
+            "type": "java",
+            "name": "reverse_no",
+            "request": "launch",
+            "mainClass": "reverse_no",
+            "projectName": "javaProgramming_c437d854"
+        },
+        {
+            "type": "java",
+            "name": "normal_caculator",
+            "request": "launch",
+            "mainClass": "normal_caculator",
+            "projectName": "javaProgramming_c437d854"
+        },
+        {
+            "type": "java",
+            "name": "tax_calculate",
+            "request": "launch",
+            "mainClass": "tax_calculate",
+            "projectName": "javaProgramming_c437d854"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "area_of_circle",
+            "request": "launch",
+            "mainClass": "area_of_circle",
+            "projectName": "javaProgramming_c437d854"
+        },
+        {
+            "type": "java",
+            "name": "inputinjava",
+            "request": "launch",
+            "mainClass": "inputinjava",
+            "projectName": "javaProgramming_c437d854"
+        },
+        {
+            "type": "java",
+            "name": "javaBasic",
+            "request": "launch",
+            "mainClass": "javaBasic",
+            "projectName": "javaProgramming_c437d854"
+        },
+        {
+            "type": "java",
+            "name": "optional",
+            "request": "launch",
+            "mainClass": "optional",
+            "projectName": "javaProgramming_c437d854"
+        },
+        {
+            "type": "java",
+            "name": "printstar",
+            "request": "launch",
+            "mainClass": "printstar",
+            "projectName": "javaProgramming_c437d854"
+        },
+        {
+            "type": "java",
+            "name": "sum_no",
+            "request": "launch",
+            "mainClass": "sum_no",
+            "projectName": "javaProgramming_c437d854"
+        },
+        {
+            "type": "java",
+            "name": "using_input_sum",
+            "request": "launch",
+            "mainClass": "using_input_sum",
+            "projectName": "javaProgramming_c437d854"
+        }
+    ]
+}
