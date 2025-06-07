@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "demcimal_to_binaray",
+            "request": "launch",
+            "mainClass": "demcimal_to_binaray",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "binary_to_decimal_conv",
+            "request": "launch",
+            "mainClass": "binary_to_decimal_conv",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "prime_in_range",
+            "request": "launch",
+            "mainClass": "prime_in_range",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "prime_number",
+            "request": "launch",
+            "mainClass": "prime_number",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "operator_overloading",
+            "request": "launch",
+            "mainClass": "operator_overloading",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "binomial_cofficient",
+            "request": "launch",
+            "mainClass": "binomial_cofficient",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "product_of_two_no",
+            "request": "launch",
+            "mainClass": "product_of_two_no",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "swaping",
+            "request": "launch",
+            "mainClass": "swaping",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "sum_usingfun",
+            "request": "launch",
+            "mainClass": "sum_usingfun",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "print_msg",
+            "request": "launch",
+            "mainClass": "print_msg",
+            "projectName": "use java for pattern_a417f0ee"
+        }
+    ]
+}
