@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "patternwith_diamond",
+            "request": "launch",
+            "mainClass": "patternwith_diamond",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "hollow_rombus",
+            "request": "launch",
+            "mainClass": "hollow_rombus",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "solid_rombus",
+            "request": "launch",
+            "mainClass": "solid_rombus",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "butterfly_pattern",
+            "request": "launch",
+            "mainClass": "butterfly_pattern",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "triangle_1_0_pattern",
+            "request": "launch",
+            "mainClass": "triangle_1_0_pattern",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "floyeds_triangle",
+            "request": "launch",
+            "mainClass": "floyeds_triangle",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "inverted_half_peramid_with_number",
+            "request": "launch",
+            "mainClass": "inverted_half_peramid_with_number",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "inverted_rotatedhalf_peramid",
+            "request": "launch",
+            "mainClass": "inverted_rotatedhalf_peramid",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "hollow_rectangle",
+            "request": "launch",
+            "mainClass": "hollow_rectangle",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
             "name": "demcimal_to_binaray",
             "request": "launch",
             "mainClass": "demcimal_to_binaray",
