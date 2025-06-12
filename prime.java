@@ -14,11 +14,11 @@ public class prime {
             }
         }
         if(isprime==true){
-            System.err.println(" number is Prime");
+            System.out.println(" number is Prime");
 
         }
         else{
-            System.err.println("not prime");
+            System.out.println("not prime");
         }
         pri.close();
      
