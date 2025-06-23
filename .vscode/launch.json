@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "max_sum",
+            "request": "launch",
+            "mainClass": "max_sum",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "pair_in_array",
+            "request": "launch",
+            "mainClass": "pair_in_array",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "reverseofarray",
+            "request": "launch",
+            "mainClass": "reverseofarray",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "binarySearch",
+            "request": "launch",
+            "mainClass": "binarySearch",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "largest_sum",
+            "request": "launch",
+            "mainClass": "Array.largest_sum",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "linear_usings_string",
+            "request": "launch",
+            "mainClass": "Array.linear_usings_string",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "linear_search",
+            "request": "launch",
+            "mainClass": "Array.linear_search",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "pass_argument_by_referance_nature",
+            "request": "launch",
+            "mainClass": "Array.pass_argument_by_referance_nature",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "input_use",
+            "request": "launch",
+            "mainClass": "Array.input_use",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "Array.input",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
+            "name": "array_input",
+            "request": "launch",
+            "mainClass": "Array.array_input",
+            "projectName": "use java for pattern_a417f0ee"
+        },
+        {
+            "type": "java",
             "name": "patternwith_diamond",
             "request": "launch",
             "mainClass": "patternwith_diamond",
